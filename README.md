@@ -6,7 +6,7 @@
 - ✨ I’m currently a looking for an internship opportunity in the summer of 2022. Incoming SWE @BitGo and previously @**Dropbase**, @**Ford**, @**FLATLAY Inc.**, @**Field Effect Software**
 - 🌱 I’m currently learning more about ML & DS
 - 🔅 Cool fact: In high school, I was able to find two vulnerabilities in @**Microsoft**'s web services as well as @**Google**
-- 💬 Ask me about cybersecurity and the Instagram algorithm!
+- 💬 Ask me about cybersecurity and Instagram's explore algorithm!
 - 📫 Reach me: victoryun1811@gmail.com
 
 
